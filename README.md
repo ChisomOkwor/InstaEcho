@@ -1,4 +1,4 @@
-# Project 3 - *InstaEhco*
+# Project 3 - *InstaEcho*
 
 **InstaEhco** is a photo sharing app similar to Instagram but using Parse as its backend.
 
