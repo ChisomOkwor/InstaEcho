@@ -29,7 +29,7 @@ Here's a walkthrough of implemented user stories:
 <a href="https://i.imgur.com/M6NneWX.gif">DEMO HERE... </a> 
 
 
-<img src="https://github.com/ChisomOkwor/TweetEcho/blob/master/screenshot.png" width=250><br>
+<img src="https://github.com/ChisomOkwor/InstaEcho/blob/master/screenshot.png" width=250><br>
 
 
 
