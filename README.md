@@ -1,6 +1,6 @@
 # Project 3 - *InstaEcho*
 
-**InstaEhco** is a photo sharing app similar to Instagram but using Parse as its backend.
+**InstaEcho** is a photo sharing app similar to Instagram but using Parse as its backend.
 
 Time spent: **5** hours spent in total
 
@@ -26,10 +26,10 @@ The following **additional** features are implemented:
 ## Video Walkthrough
 
 Here's a walkthrough of implemented user stories:
+<a href="https://i.imgur.com/M6NneWX.gif">DEMO HERE... </a> 
 
-<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
-GIF created with [LiceCap](http://www.cockos.com/licecap/).
+<img src="https://github.com/ChisomOkwor/TweetEcho/blob/master/screenshot.png" width=250><br>
 
 
 
